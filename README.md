@@ -1,5 +1,10 @@
 # concur-static
 
+## Important
+
+Hey Bro, was geht? Meld' dich doch mal bei mir.
+- David
+
 ## General
 
 `concur-static` explores, similar to [`concur-replica`](https://github.com/pkamenarsky/concur-replica), yet another point in the [Concur](https://github.com/ajnsit/concur) UI space. It is a static UI generator, yet it provides more dynamism than other similar projects (i.e. a finite counter can be programmed with ease); and less than full-blown SPA frameworks, like React (an *infinite* counter is currently impossible).
